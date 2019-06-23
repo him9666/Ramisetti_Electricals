@@ -4,7 +4,7 @@ title:  "Welcome to Ramisetti Electricals!"
 date:   2019-06-22 12:56:07 +0530
 categories: jekyll update
 author: Himesh
-permalink: Our shelves
+permalink: Our_shelves
 ---
 
 <img src="images/Tools.jpg" >

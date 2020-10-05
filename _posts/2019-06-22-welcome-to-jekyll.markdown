@@ -17,5 +17,5 @@ permalink: Our_shelves
 <br/>
   Don't worry Thor,the god of thunder is our client as well. <br/>
   We managed to make him control his power <br/> 
-  through our mastery experience in handing power.
+  through our mastery experience in handing power 'kidding :-) .
 

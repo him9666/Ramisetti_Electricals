@@ -24,7 +24,7 @@ twitter_username: #jekyllrb
 github_username: him9666
 
 # Build settings
-markdown: kramdown
+markdown: Kramdown
 theme: minima
 plugins:
   - jekyll-feed
@@ -38,9 +38,9 @@ defaults:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+ exclude:
+   - Gemfile
+   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/

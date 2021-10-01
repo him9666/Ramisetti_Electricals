@@ -24,7 +24,7 @@ twitter_username: #jekyllrb
 github_username: him9666
 
 # Build settings
-markdown: kramdown
+markdown: Kramdown
 theme: minima
 plugins:
   - jekyll-feed

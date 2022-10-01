@@ -30,7 +30,7 @@ plugins:
   - jekyll-feed
 
 defaults:
- - scope:
+  - scope:
     path: "images"
    values:  
     image: true  

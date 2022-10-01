@@ -32,7 +32,7 @@ plugins:
 defaults:
   - scope:
     path: "images"
-   values:  
+    values:  
     image: true  
 
 # Exclude from processing.
